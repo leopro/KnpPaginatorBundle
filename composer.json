@@ -17,13 +17,6 @@
         }
     ],
 
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "http://github.com/leopro/knp-components"
-        }
-    ],
-
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "2.*,<2.2",
