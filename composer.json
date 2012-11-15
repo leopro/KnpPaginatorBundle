@@ -20,7 +20,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/leopro/knp-components"
+            "url": "http://github.com/leopro/knp-components"
         }
     ],
 
